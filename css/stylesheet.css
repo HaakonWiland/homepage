@@ -19,6 +19,7 @@ footer {
     width: 100%;
     background-color: rgb(100, 32, 11);
     color: white;
+    
    
   }
 
@@ -122,6 +123,7 @@ article {
    text-align: center; 
    padding-left: 20%;
    padding-right: 20%; 
+   padding-bottom: 20%;
    
    
 }
